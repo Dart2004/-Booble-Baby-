@@ -19,4 +19,4 @@ jobs:
       env:
         DB_CONNECTION: sqlite
         DB_DATABASE: database/database.sqlite
-      run: vendor/bin/https://github.com/Dart2004/BoobleBaby.php.git
+      run: vendor/bin/agkjdspfoajsaol/index.php
